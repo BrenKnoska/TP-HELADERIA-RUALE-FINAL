@@ -10,4 +10,5 @@ Se debe hacer un buen uso de los elementos HTML y el sitio debe estar validado c
 La información que se muestra en pantalla debe tener coherencia, no se puede generar textos aleatorios como lorem ipsum.
 
 
-Sitio web: https://heladeria-ruale.netlify.app/
+Sitio web: https://tp-ruale-heladeria-final.netlify.app
+
